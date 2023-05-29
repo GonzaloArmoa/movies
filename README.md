@@ -4,4 +4,4 @@
  - Mauro Bustos
  - Rodrigo Alvarez 
  - Camila Acosta
- - Gonzalo Armoa, 30, San Nicolas de los Arroyos.
+ - Gonzalo Armoa, 30 años, San Nicolas de los Arroyos.
