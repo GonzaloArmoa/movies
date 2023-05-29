@@ -3,5 +3,5 @@
  - Agustin Benitez
  - Mauro Bustos
  - Rodrigo Alvarez 
- - Camila Acosta
+ - Camila Acosta, 26 años, Mercedes, Bs As.
  - Gonzalo Armoa
