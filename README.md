@@ -1,7 +1,7 @@
 # Movies
 ## Lista de Integrantes del Grupo :
  - Agustin Benitez 24 años Funes
- - Mauro Bustos
  - Rodrigo Alvarez, 28 años, Quilmes.
+ - Mauro Bustos 31 Córdoba capital
  - Camila Acosta
  - Gonzalo Armoa
