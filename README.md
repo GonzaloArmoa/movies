@@ -1,7 +1,7 @@
 # Movies
 ## Lista de Integrantes del Grupo :
- - Agustin Benitez
+ - Agustin Benitez 24 años Funes
  - Mauro Bustos
- - Rodrigo Alvarez 
  - Camila Acosta, 26 años, Mercedes, Bs As.
- - Gonzalo Armoa
+ - Rodrigo Alvarez, 28 años, Quilmes.
+ - Gonzalo Armoa, 30 años, San Nicolas de los Arroyos.
